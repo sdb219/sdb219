@@ -1,4 +1,4 @@
-# Hi, I’m Sri Durga Bhavni 👋
+# Hi, I’m Sri Durga Bhavani 👋
 
 I’m passionate about **Data Analytics** and transforming raw data into actionable insights that drive smart business decisions.
 
